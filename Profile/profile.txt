@@ -13,3 +13,11 @@ Trailhead Profile : https://www.salesforce.com/trailblazer/varunsunkarla
 Developer Org Username : propertymanage@gdcproject.com
 Developer Org Username : Gayatri@123
 Position : Team Member
+
+Name of the student : Sankineni rajesh
+Learning Track : Devoloper
+Project Name : Property Management Application Using Salesforce
+Trailhead Profile : https://www.salesforce.com/trailblazer/sankinenirajesh
+Developer Org Username : rajeshgdcproject@123.com 
+Developer Org Username : Gayati@12271
+Position : Team member
